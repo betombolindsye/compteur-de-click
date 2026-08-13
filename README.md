@@ -1,2 +1,2 @@
 # compteur-de-click
-essaie basique d html ccs et js
+Projet d'apprentissage basique utilisant HTML, CSS et JavaScript
